@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.umt.edu.my.ico",
     "slug": "umt-official-website",
     "status": "down",
-    "uptime": "9.01%",
-    "uptimeDay": "9.01%",
-    "uptimeWeek": "9.01%",
-    "uptimeMonth": "9.01%",
-    "uptimeYear": "9.01%",
+    "uptime": "0.61%",
+    "uptimeDay": "0.61%",
+    "uptimeWeek": "0.61%",
+    "uptimeMonth": "0.61%",
+    "uptimeYear": "0.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 1
+      "2022-11-09": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mynemo.umt.edu.my.ico",
     "slug": "mynemo",
     "status": "down",
-    "uptime": "10.84%",
-    "uptimeDay": "10.84%",
-    "uptimeWeek": "10.84%",
-    "uptimeMonth": "10.84%",
-    "uptimeYear": "10.84%",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 1
+      "2022-11-09": 15
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epembelajaran.umt.edu.my.ico",
     "slug": "oceania",
     "status": "down",
-    "uptime": "15.47%",
-    "uptimeDay": "15.47%",
-    "uptimeWeek": "15.47%",
-    "uptimeMonth": "15.47%",
-    "uptimeYear": "15.47%",
+    "uptime": "0.72%",
+    "uptimeDay": "0.72%",
+    "uptimeWeek": "0.72%",
+    "uptimeMonth": "0.72%",
+    "uptimeYear": "0.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 1
+      "2022-11-09": 15
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epembelajaran.umt.edu.my.ico",
     "slug": "wadi",
     "status": "down",
-    "uptime": "3.75%",
-    "uptimeDay": "3.75%",
-    "uptimeWeek": "3.75%",
-    "uptimeMonth": "3.75%",
-    "uptimeYear": "3.75%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 1
+      "2022-11-09": 15
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/epembelajaran.umt.edu.my.ico",
     "slug": "oasis",
     "status": "down",
-    "uptime": "4.75%",
-    "uptimeDay": "4.75%",
-    "uptimeWeek": "4.75%",
-    "uptimeMonth": "4.75%",
-    "uptimeYear": "4.75%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 1
+      "2022-11-09": 15
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bayou.umt.edu.my.ico",
     "slug": "bayou",
     "status": "down",
-    "uptime": "54.71%",
-    "uptimeDay": "54.71%",
-    "uptimeWeek": "54.71%",
-    "uptimeMonth": "54.71%",
-    "uptimeYear": "54.71%",
+    "uptime": "1.88%",
+    "uptimeDay": "1.88%",
+    "uptimeWeek": "1.88%",
+    "uptimeMonth": "1.88%",
+    "uptimeYear": "1.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 0
+      "2022-11-09": 15
     }
   },
   {
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4993,
-    "timeDay": 4993,
-    "timeWeek": 4993,
-    "timeMonth": 4993,
-    "timeYear": 4993,
+    "time": 2899,
+    "timeDay": 2899,
+    "timeWeek": 2899,
+    "timeMonth": 2899,
+    "timeYear": 2899,
     "dailyMinutesDown": {}
   }
 ]
