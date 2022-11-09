@@ -5,18 +5,25 @@ repo: umt-web-uptime # The name of this repository
 sites:
   - name: UMT Official Website
     url: https://www.umt.edu.my
+    maxResponseTime: 5000
   - name: Mynemo
     url: https://mynemo.umt.edu.my
+    maxResponseTime: 5000
   - name: Oceania
     url: https://epembelajaran.umt.edu.my/oceania/
+    maxResponseTime: 5000
   - name: Wadi
     url: https://epembelajaran.umt.edu.my/wadi/
+    maxResponseTime: 5000
   - name: Oasis
     url: https://epembelajaran.umt.edu.my/oasis/
+    maxResponseTime: 5000
   - name: Bayou
     url: https://bayou.umt.edu.my
+    maxResponseTime: 5000
   - name: e-spp
     url: http://e-spp.umt.edu.my
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
