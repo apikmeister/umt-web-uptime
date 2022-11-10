@@ -5,6 +5,7 @@ repo: umt-web-uptime # The name of this repository
 sites:
   - name: UMT Official Website
     url: https://www.umt.edu.my
+    __dangerous__insecure: true
     maxResponseTime: 5000
   - name: Mynemo
     url: https://mynemo.umt.edu.my
